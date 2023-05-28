@@ -21,8 +21,8 @@ Use for() and if() loop to find the GCD of the two numbers.
 ```
 /*
 Program to find the gcd of two number using function.
-Developed by: 
-RegisterNumber:  
+Developed by: S.Jaiganesh
+RegisterNumber: 212222240037
 */
 def gcd():
     x=int(input())
